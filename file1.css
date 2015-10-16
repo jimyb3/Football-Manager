@@ -1,0 +1,236 @@
+body 
+	{
+		background-color: #4AA02C;
+		background-image: url('http://localhost/project/images/football4.png');
+		background-repeat: repeat-x;
+		background-position: 1200px 250px; 
+		background-attachment: fixed;
+		font-family: Arial;
+		font-size: 30px;
+		color: white;
+	    text-align: center;
+		FONT-WEIGHT: bold;
+		margin:0 auto;
+		padding:0;
+		overflow:visible;
+					
+	}
+
+	
+h1
+	{		
+		FONT-WEIGHT: bold;
+		font-family: Arial;
+		font-size: 60px;
+		text-align:center;
+		color: #FF0000;
+		background-color: #6CC417;
+		overflow:visible;
+		
+		}	
+a.forgot
+	{
+		font-size: 15px;
+		margin: 0;
+		FONT-WEIGHT: normal; 
+		padding: 0;
+		font-family: Arial;
+		color: white;
+		
+	}
+form.newuser
+	{		
+		background-color:rgba(166, 163, 162,0.9);
+		FONT-WEIGHT: bold;
+		text-align: center;
+		font-family: Arial;
+		font-size: 30px;
+		
+		color: black;
+		
+	}
+	
+
+	
+table.center {
+		border: 3px solid black;
+		border-collapse: collapse;
+		text-align: center;
+		background-color: white;
+		font-family: Arial;
+		color:black;
+		margin-left:auto; 
+    	margin-right:auto;	
+    	position:relative;
+    	top:20px;
+    		
+	}	
+	
+	
+table.polisi1 {
+		border: 3px solid black;
+		border-collapse: collapse;
+		text-align: center;
+		background-color: white;
+		font-family: Arial;
+		color:black;
+		margin-left:auto; 
+    	margin-right:auto;	
+    	height:320px;
+    	top:20px;
+    	
+    		
+	}	
+div {
+	overflow-y:scroll;
+	margin:0;
+	height:320px;
+	
+}	
+
+div.login
+{
+	background-color:rgba(166, 163, 162,0.9);
+	overflow:hidden;
+	width:750px;	
+	height:300px;	
+	margin-left:auto;
+	margin-right:auto;
+	margin:0 auto;	
+}
+
+div.newuser
+{
+	background-color:rgba(166, 163, 162,0.9);
+	overflow:hidden;
+	width:750px;	
+	height:auto;	
+	margin-left:auto;
+	margin-right:auto;
+	margin:0 auto;	
+}
+div.newuserrules
+{
+	background-color:rgba(166, 163, 162,0.9);
+	overflow-y:scroll;	
+	width:750px;	
+	height:70%;	
+	margin-left:auto;
+	margin-right:auto;
+	margin:0 auto;	
+}
+div.myteam
+{
+	background-color:rgba(166, 163, 162,0.9);
+	overflow:hidden;
+	width:750px;	
+	height:80px;	
+	margin-left:auto;
+	margin-right:auto;
+	margin:0 auto;
+	
+}
+
+
+div.myteam2
+{
+	background-color:rgba(166, 163, 162,0.9);
+	overflow:hidden;
+	width:750px;	
+	height:40px;	
+	margin-left:auto;
+	margin-right:auto;
+	margin:0 auto;
+		
+}
+
+	
+table.polisi2 {
+		border: 3px solid black;
+		border-collapse: collapse;
+		text-align: center;
+		background-color: white;
+		font-family: Arial;
+		color:black;
+		margin-left:auto; 
+    	margin-right:auto;	
+    	position:relative;
+    	/*height:320px;*/    	    		
+	}		
+
+th,td {
+		border: 3px solid black;
+		border-collapse: collapse;
+		font-family: Arial;
+	}
+	
+p	{
+	display: inline;
+    font: bold 20px arial;
+    color: #FDD017;
+    background: rgba(166, 163, 162,0.9);
+   	padding: 1px 0 1px 0;
+    white-space: pre-line;
+	}
+      
+
+p.eidopoihsh {
+		color: red;
+		overflow:hidden;		
+	}
+p.mhnuma {
+		color: #FDD017;
+		overflow:hidden;		
+	}	
+
+input.oloklirosi {
+		
+		
+		margin-left:auto;
+		margin-right:auto;
+		
+		
+	}
+input.nai {
+		left:755px;
+		position:absolute;
+		bottom:450px;
+	}
+input.oxi {
+		left:800px;
+		position:absolute;
+		bottom:450px;
+	}	
+input.newuser
+{
+	float left;
+}	
+
+input.users
+{
+	float left;
+}	
+
+input.newadmin
+{
+	float left;
+}	
+
+
+ul
+{
+	list-style-type:none;
+	margin:0;
+	padding:0;
+	overflow:hidden;
+	
+	
+}
+
+li
+{
+	float:left;
+	position:center;
+
+}
+
